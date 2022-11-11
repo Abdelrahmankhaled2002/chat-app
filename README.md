@@ -1,2 +1,2 @@
 # chat-app
-chatting application buildedwith MVVM design pattern
+chatting application builded with MVVM design pattern
